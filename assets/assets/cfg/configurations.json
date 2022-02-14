@@ -1,4 +1,5 @@
 {
-  "api_base_url": "https://portaltest.alph4.uk/api/",
-  "image_base_url": "https://portaltest.alph4.uk/api/"
+  "api_base_url": "https://cb-api-staging.alph4.uk/",
+  "prodKey": "dYtlVfOdGvlXxpmGqQkMIkCAiVfPooSxeX8APcQGrvh0penGZQrpf0DdVJUXNFxv",
+  "devKey": "dYtlVfOdGvlXxpmGqQkMIkCAiVfPooSxeX8APcQGrvh0penGZQrpf0DdVJUXNFxv"
 }
